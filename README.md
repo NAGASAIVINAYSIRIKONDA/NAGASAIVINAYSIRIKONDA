@@ -15,11 +15,11 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working on **Frontend Website for Jyoti Water Services**
 
-- 🌱 I’m currently learning **[Technologies/Skills You're Learning]**
+- 🌱 I’m currently learning **Mobile application development**
 
-- 💬 Ask me about **Python, ECU tuning, automotive tech, or frontend development**
+- 💬 Ask me about **Python, ECU tuning, automotive tech, Node.js, Express.js, and anything related to mobile app development**
 
 - 📫 How to reach me **vnikshindustries@gmail.com**
 
